@@ -1,4 +1,4 @@
-public class Main {
+public class Ejecutar {
     public static void main(String[] args) {
         // Crear un sistema de control con 5 pisos y 2 ascensores
         SistemaControl sistemaControl = new SistemaControl(5, 2);
